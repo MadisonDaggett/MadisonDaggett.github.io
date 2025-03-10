@@ -1,0 +1,22 @@
+.startpage-paragraph {
+    font-size:30px;
+}
+#page2text{
+    text-align: center;
+}
+#wizards{
+    align-items: center;
+}
+.image {
+    width: 500px;
+}
+.button {width: 100px;height: 50px;}
+.buttontext {
+    font-size: 30px;
+    text-align: center;
+    color: aqua;
+    text-shadow: 2px 2px purple;
+}
+.imagecaption {font-size: 25px;
+color: aqua;
+text-shadow: 2px 2px purple}
